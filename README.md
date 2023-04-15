@@ -1,6 +1,7 @@
 <h1 align="center">Hiiii 👋, I'm allankizgzz </h1>
 <h5 align="center">You can call me allanbaby!</h5>
 <p align="center"><img src="https://komarev.com/ghpvc/?username=allankizgzz&label=Profile%20views&color=1ea97f&style=flat" alt="allankizgzz" /></p>
+
 - ⚡ A student from Taiwan
 - 🌱 I’m currently learning CSIE **stuffs**
 - 🤔 I’m looking for help with **Reverse Engineering**
