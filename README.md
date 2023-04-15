@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+<p align="center"><img src="https://komarev.com/ghpvc/?username=allankizgzz&label=Profile%20views&color=1ea97f&style=flat" alt="allankizgzz" /></p>
 <!--
 **allankizgzz/allankizgzz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
