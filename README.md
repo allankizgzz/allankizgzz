@@ -1,6 +1,12 @@
-<h1 align="center">Hiiii 👋, I'm allankizgzz or you can call me allanbaby!</h1>
+<h1 align="center">Hiiii 👋, I'm allankizgzz </h1>
+<h5 align="center">You can call me allanbaby!</>
 <p align="center"><img src="https://komarev.com/ghpvc/?username=allankizgzz&label=Profile%20views&color=1ea97f&style=flat" alt="allankizgzz" /></p>
-<h3 align="left"> 🌱 I’m currently learning CSIE stuffs</h3>
+<h4 align="left"> 🌱 I’m currently learning CSIE stuffs</h4>
+<h4 align="left"> 🤔 I’m looking for help with Reverse Engineering</h4>
+<h4 align="left"> 💬 Ask me about Taiwan </h4>
+<h4 align="left"> 📫 How to reach me king6209151@gmail.com or Discord</h4>
+<p align="center">
+<img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?langs_count=6&username=allankizgzz&show_icons=true&theme=vue-dark&layout=compact&hide=css,html,javascript&count_private=true" alt="allankizgzz" />
 
 <!--
 **allankizgzz/allankizgzz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
