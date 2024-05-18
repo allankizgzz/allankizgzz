@@ -11,7 +11,7 @@
 <p align="center">
 <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?langs_count=6&username=allankizgzz&show_icons=true&theme=vue-dark&layout=compact&hide=css,html,javascript&count_private=true" alt="allankizgzz" />
   <br></>
- <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=allankizgzz&show_icons=true&theme=vue-dark&count_private=true" alt="allankizgzz" />
+ <!-- <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=allankizgzz&show_icons=true&theme=vue-dark&count_private=true" alt="allankizgzz" />
 
 <!--
 **allankizgzz/allankizgzz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
