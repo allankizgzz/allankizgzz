@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning CSIE **stuffs**
 - 🤔 I’m looking for help with **Reverse Engineering**
 - 📫 How to reach me **king6209151@gmail.com** or Discord
-- # [My WEB(Testing)](https://allankizgzz.github.io/)
+- ⚡[My WEB(Testing)](https://allankizgzz.github.io/)
 
 <p align="center">
 <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?langs_count=6&username=allankizgzz&show_icons=true&theme=vue-dark&layout=compact&hide=css,html,javascript&count_private=true" alt="allankizgzz" />
