@@ -4,7 +4,7 @@
 
 - ⚡ A student from Taiwan
 - 🌱 I’m currently learning CSIE **stuffs**
-- 🤔 I’m looking for help with **Reverse Engineering**
+- 🤔 I’m looking for help with **Research**
 - 📫 How to reach me **king6209151@gmail.com** or Discord
 - ⚡[My WEB(Testing)](https://allankizgzz.github.io/)
 
